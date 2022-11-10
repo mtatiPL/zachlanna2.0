@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668083326 source:d:\kody do code blocksa\metoda zach³anna\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
